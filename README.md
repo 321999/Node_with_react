@@ -19,3 +19,24 @@ Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Tem
 
 <!--  -->
 addign everything whatever is required to perform the task
+
+
+ot push our code we had followed some steps along with the one utube video
+```
+remote: Permission to 321999/Node_with_react.git denied to 321999.
+fatal: unable to access 'https://github.com/321999/Node_with_react.git/': The requested URL returned error: 403
+```
+
+so the answer for this errro is 
+u have to first set yur user name and the gmail
+# git config user.email  ""
+# git config user.name
+then 
+# git config credential user.name 
+copy this rser name from git hub url 
+# know push ur code and hit enter 
+* it will ask u for the password 
+* so for password generate the permission link called token 
+and paste that token as a password
+
+

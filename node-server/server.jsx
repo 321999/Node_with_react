@@ -10,5 +10,5 @@ app.get("/a/:apple",(req,res)=>{
 })
 
 app.listen(4000,()=>{
-  console.log("server stad")
+  console.log("server is redy ")
 })
