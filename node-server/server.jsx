@@ -6,7 +6,7 @@ app.get("/",(req,res)=>{
 })
 
 app.get("/a/:apple",(req,res)=>{
-  res.send("server is ready at a which a is for apple "+req.params.apple)
+  res.send("server is ready at a which afor apple "+req.params.apple)
 })
 
 app.listen(3000,()=>{
