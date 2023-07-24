@@ -10,5 +10,5 @@ app.get("/a/:apple",(req,res)=>{
 })
 
 app.listen(3000,()=>{
-  console.log("server started")
+  console.log("server stad")
 })
